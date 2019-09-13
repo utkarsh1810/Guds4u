@@ -1,0 +1,48 @@
+0000.000 (0) Opened log file at time: Thu, 07 Mar 2019 16:33:36 +0000 on http://guds4u.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.6 WP: 5.0.3 PHP: 5.6.30 (cgi-fcgi, Linux sens.websitewelcome.com 4.14.94-164.ELK.el6.x86_64 #1 SMP Wed Jan 16 16:56:35 CST 2019 x86_64) MySQL: 5.6.41-84.1 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 81.8M | 82.8M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.111 (0) Free space on disk containing Updraft's temporary directory: 133675.4 MB
+0000.117 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.121 (0) Semaphore (fd, wp_options) being initialised
+0000.132 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.141 (0) Set semaphore last lock (fd) time to 2019-03-07 16:33:36
+0000.143 (0) Semaphore lock (fd) complete
+0000.154 (0) Backup run: resumption=0, nonce=4cb069a8175e, file_nonce=4cb069a8175e begun at=1551976416 (0s ago), job type=backup
+0000.156 (0) Scheduling a resumption (1) after 300 seconds (1551976716) in case this run gets aborted
+0000.194 (0) Checking if we have a zip executable available
+0000.198 (0) Testing: /usr/bin/zip
+0000.222 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.227 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.230 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.234 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.239 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.267 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.270 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.289 (0) Working binary zip found: /usr/bin/zip
+0000.295 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.297 (0) Creation of backups of directories: beginning
+0000.308 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0006.019 (0) Total entities for the zip file: 1073 directories, 7543 files (0 skipped as non-modified), 99.7 MB
+0006.026 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0006.128 (0) backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: size is now: 0.20 MB
+0006.146 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 100 files added (on-disk size: 238.1 KB)
+0006.155 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 200 files added (on-disk size: 238.1 KB)
+0006.166 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 300 files added (on-disk size: 238.1 KB)
+0006.177 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 400 files added (on-disk size: 238.1 KB)
+0006.187 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 500 files added (on-disk size: 238.1 KB)
+0006.190 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10 MB, 7543 files batched, 501 (502) added so far); re-opening (prior size: 238.1 KB)
+0011.031 (0) backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: size is now: 2.50 MB
+0011.050 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 600 files added (on-disk size: 2536.8 KB)
+0011.065 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 700 files added (on-disk size: 2536.8 KB)
+0011.084 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 800 files added (on-disk size: 2536.8 KB)
+0011.096 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 900 files added (on-disk size: 2536.8 KB)
+0011.108 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 1000 files added (on-disk size: 2536.8 KB)
+0011.112 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5 MB, 7543 files batched, 501 (1003) added so far); re-opening (prior size: 2536.8 KB)
+0014.694 (0) backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: size is now: 3.80 MB
+0014.709 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 1100 files added (on-disk size: 3927.7 KB)
+0014.731 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 1200 files added (on-disk size: 3927.7 KB)
+0014.745 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 1300 files added (on-disk size: 3927.7 KB)
+0014.762 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 1400 files added (on-disk size: 3927.7 KB)
+0014.775 (0) Zip: backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: 1500 files added (on-disk size: 3927.7 KB)
+0014.780 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.1 MB, 7543 files batched, 501 (1504) added so far); re-opening (prior size: 3927.7 KB)
+0019.349 (0) backup_2019-03-07-1633_Get_what_you_think_4cb069a8175e-plugins.zip.tmp: size is now: 5.50 MB
+0019.357 (0) User request for abort: backup job will be immediately halted

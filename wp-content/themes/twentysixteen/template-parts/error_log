@@ -1,0 +1,2 @@
+[11-Jun-2019 03:12:08 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home/guds4u/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[11-Jun-2019 03:44:29 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home/guds4u/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11

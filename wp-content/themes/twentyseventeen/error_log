@@ -1,0 +1,4 @@
+[06-May-2019 04:51:35 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/guds4u/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Jul-2019 12:21:05 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/guds4u/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[17-Jul-2019 22:53:47 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/guds4u/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Aug-2019 04:07:42 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home/guds4u/public_html/wp-content/themes/twentyseventeen/functions.php on line 16

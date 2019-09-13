@@ -1,0 +1,7 @@
+[06-May-2019 11:04:06 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/guds4u/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[14-Jul-2019 19:12:00 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/guds4u/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[17-Jul-2019 02:51:05 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/guds4u/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[17-Jul-2019 09:31:32 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home/guds4u/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[19-Jul-2019 02:42:20 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home/guds4u/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[21-Jul-2019 01:53:02 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/guds4u/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[21-Jul-2019 08:31:27 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home/guds4u/public_html/wp-content/themes/twentyfifteen/content.php on line 13
